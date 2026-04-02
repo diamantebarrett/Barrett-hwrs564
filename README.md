@@ -16,4 +16,4 @@ The goal of this project is to determine how varying levels of water treatment i
 This study uses laboratory soil tests to measure infiltration rates and evaporation under different water treatment conditions. By comparing these treatments, we can assess how changes in water chemistry impact soil performance.
 
 ## Repository Contents
-- `lab_data.xlsx`: Contains initial data used to design the experimental procedure for this project.
+- `Initial_Testing.xlsx`: Contains initial data used to design the experimental procedure for this project.
